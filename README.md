@@ -8,7 +8,6 @@ Description: A hilarious platform game where you fight against brain rot humor t
 
 📝 To-Do List for Game Development Project
 1. Technology Areas Involved:
-
  Graphics: Add and integrate pictures 🎨
  Audio: Incorporate sound effects 🎵
  Game Design: Ensure all sets and assets work cohesively 🔧
@@ -21,21 +20,17 @@ Description: A hilarious platform game where you fight against brain rot humor t
  Ensure all elements (graphics, sound, mechanics) work well together ⚙️
 
 4. Technology Stack:
-
  Primary Language: C#
  Game Engine: Unity 🎮
  Tools: Use other game design tools for asset integration 🛠️
-5. Learning Goals:
 
+6. Learning Goals:
  Learn or improve skills in C# or other coding languages 🧑‍💻
  Gain experience in game design and development 🎨
-6. Timeline:
 
+6. Timeline:
  Asset Acquisition: Find and gather pictures and sound effects 📸🔊
  Game Design Draft: Create a rough outline and design of the game 📝
  Coding Language: Choose and learn a suitable coding language if needed 📚
  Development: Begin coding and integrating assets into Unity 💻
-7. Resources Needed:
 
- Pictures and visual assets 🎨
- Sound effects and audio clips 🔊
